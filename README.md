@@ -29,8 +29,10 @@ A high-performance, feature-rich collaborative text editor built with **React**,
 
 ## 📸 Screenshots
 
-<!-- INSERT_SCREENSHOT_HERE -->
-![Editor Overview](https://via.placeholder.com/800x450.png?text=Placeholder:+Insert+Your+Editor+Screenshot+Here)
+<img width="1238" height="869" alt="image" src="https://github.com/user-attachments/assets/7a0d090e-87d7-438b-bd34-fe2865affb53" />
+
+
+
 *Example: Real-time editing with multiple user cursors and the sidebar active.*
 
 ## 📦 Installation
@@ -42,7 +44,7 @@ A high-performance, feature-rich collaborative text editor built with **React**,
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone <your-github-repo-link>
+   git clone https://github.com/chankityu/collaborative-text-editor.git
    cd collaborative-text-editor
    ```
 
