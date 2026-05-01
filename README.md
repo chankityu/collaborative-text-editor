@@ -66,4 +66,4 @@ A high-performance, feature-rich collaborative text editor built with **React**,
 This project is licensed under the MIT License.
 
 ---
-**GitHub Repository**: Link to Repository
+**GitHub Repository**: [Collaborative text editor](https://github.com/chankityu/collaborative-text-editor)
